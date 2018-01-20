@@ -1,0 +1,13 @@
+{
+  "name": "std-esm-nodegit",
+  "version": "1.0.0",
+  "license": "ISC",
+  "@std/esm": {
+    "cjs": true,
+    "esm": "js"
+  },
+  "dependencies": {
+    "@std/esm": "^0.19.7",
+    "nodegit": "^0.20.3"
+  }
+}

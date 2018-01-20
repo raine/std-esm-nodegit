@@ -1,0 +1,5 @@
+% node index.js
+std-esm-nodegit/node_modules/nodegit/dist/nodegit.js:1
+Error [ERR_MISSING_MODULE]: Cannot find module file://std-esm-nodegit/annotated_commit
+    at importExtension (std-esm-nodegit/node_modules/nodegit/dist/nodegit.js:822:5)
+    at Object.<anonymous> (std-esm-nodegit/node_modules/nodegit/dist/nodegit.js:844:1)
